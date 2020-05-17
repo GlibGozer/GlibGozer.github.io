@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GlibGozer.
 
-You can use the [editor on GitHub](https://github.com/GlibGozer/GlibGozer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am, probably the same as you, a fanatic coder and Discord user.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is for open source and my own created Discord bots.
 
 ### Markdown
 
